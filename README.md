@@ -47,5 +47,5 @@ This project is backed by a research paper that was presented at the SSRN Elsevi
 
 3. Run the application:
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
